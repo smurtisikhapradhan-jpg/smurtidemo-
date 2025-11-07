@@ -1,2 +1,2 @@
 # smurtidemo-
-This is my new git reoisitory
+This is my new git repository
